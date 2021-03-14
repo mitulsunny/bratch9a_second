@@ -1,0 +1,4 @@
+Hello folks!
+This is my first project in git hub
+Learning step by step
+We are in the begining period
